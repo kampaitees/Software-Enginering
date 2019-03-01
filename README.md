@@ -5,7 +5,7 @@ In this project I'm making an app in order to help farmer. Here we are providing
 crops without having a third person in between by direct contacting with the customer so that they may get the benefit of their
 efforts.
 
-Ih this particluar repiository i had added all the UML diagrams which are explaining the fuctioning of the app.
+In this particluar repiository i had added all the UML diagrams which are explaining the fuctioning of the app.
 The UML diagrams which are here are :-
 
                                         a. Class diagram
